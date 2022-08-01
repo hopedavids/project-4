@@ -60,5 +60,5 @@ source .devops/bin/activate
 * `run_kubernetes.sh` contains to orchestrate kubernetes from the docker image
 * `upload_docker.sh` contains the script to upload the docker image to dockerhub
 * `Makefile` The Makefile includes instructions on environment setup and lint test
-* `make_predictions.sh` a shell script for making predictions 
+* `make_predictions.sh` for making predictions 
 
