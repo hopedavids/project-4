@@ -49,8 +49,8 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
-# files in the repository
-* `.circleci` directory contain the the `config.yml` file
+### files in the repository
+* `.circleci` directory contain the .circleci`config.yml` file
 * `model_data` directory contains the csv data
 * `output_txt_files` directory contains the `docker_out.txt` && `kubernetes_out.txt`
 * `app.py` is the python file
