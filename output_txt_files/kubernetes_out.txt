@@ -6,3 +6,25 @@ Handling connection for 8000
 Handling connection for 8000
 Handling connection for 8000
 
+
+e-kubernetes   main ±  ./make_prediction.sh 
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+ techman@binoverflow  ~/Documents/Repository/AWS/projects/P4_DevOps/devOps_microservices/devOps_microservices/project-ml-microservice-kubernetes   main ±  ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+ techman@binoverflow  ~/Documents/Repository/AWS/projects/P4_DevOps/devOps_microservices/devOps_microservices/project-ml-microservice-kubernetes   main ±  ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
